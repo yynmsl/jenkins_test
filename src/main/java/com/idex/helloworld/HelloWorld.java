@@ -1,3 +1,5 @@
+package com.idex.helloworld;
+
 import java.sql.*;
 
 public class HelloWorld {
